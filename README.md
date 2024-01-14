@@ -13,5 +13,7 @@
 [Ютуб-канал](https://www.youtube.com/@nmivan)
 
 [ТГ-канал про обучение](https://t.me/spim1c)
+
 [ТГ-канал про 1С](https://t.me/ywhite)
+
 [ТГ-канал про дичь в 1С](https://t.me/wildness1c)
