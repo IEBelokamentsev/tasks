@@ -1,5 +1,7 @@
-# Решение типовых задач на 1С
+# Задачник 
 
 Задачи лежат на соседней закладке - [Issues](https://github.com/IEBelokamentsev/tasks/issues)
 
-[ВК](https://vk.com/ivan.belokamentsev)
+[Группа ВК, куда стекаются все новости](https://vk.com/ivan.belokamentsev)
+[Ютуб-канал](https://www.youtube.com/@nmivan)
+
